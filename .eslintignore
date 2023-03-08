@@ -11,3 +11,5 @@ public
 .vscode
 *.d.ts
 *.md
+
+tailwind.config.cjs
